@@ -1,0 +1,5 @@
+{
+    "port":5000,
+    "jwtSecret":"solodki mandry 2019",
+    "mongoUri":"mongodb+srv://solodki_mandry:2019_solodki_mandry@cluster0.secki.mongodb.net/solodki_mandry_db?retryWrites=true&w=majority"
+}
